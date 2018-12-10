@@ -1,0 +1,8 @@
+﻿Proyecto github para Artifact
+https://github.com/ValveSoftware/ArtifactDeckCode
+
+
+
+url para obtener los sets:
+https://playartifact.com/cardset/00
+https://playartifact.com/cardset/01
